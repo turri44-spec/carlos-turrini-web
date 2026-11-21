@@ -1,0 +1,23 @@
+{
+  "updated_at": "2026-11-21",
+  "source_folder": "https://drive.google.com/drive/folders/1coU97tpgHKK8faNPgUfTsgG51cM6qXlo",
+  "source_counts": {
+    "Microfono Web": 26,
+    "Universo Web": 30,
+    "Atletismo Web": 17,
+    "Conductor Web": 5,
+    "Hagamos Web": 21
+  },
+  "source_total": 99,
+  "repository_image_files": 114,
+  "html_pages": [
+    "index.html",
+    "medios.html",
+    "cerveza.html",
+    "deporte.html",
+    "eventos.html",
+    "colaboraciones.html"
+  ],
+  "status": "pending_public_verification",
+  "notes": "No image uploads performed in this run. Preserve existing assets. Public GitHub Pages URL could not be reached from the verification environment. Counts do not establish gallery completeness. Do not mark published until all five galleries and image URLs are checked."
+}
