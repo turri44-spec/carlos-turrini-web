@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21",
+  "updated_at": "2026-11-23",
   "source_folder": "https://drive.google.com/drive/folders/1coU97tpgHKK8faNPgUfTsgG51cM6qXlo",
   "source_counts": {
     "Microfono Web": 26,
@@ -19,5 +19,13 @@
     "colaboraciones.html"
   ],
   "status": "pending_public_verification",
-  "notes": "No image uploads performed in this run. Preserve existing assets. Public GitHub Pages URL could not be reached from the verification environment. Counts do not establish gallery completeness. Do not mark published until all five galleries and image URLs are checked."
+  "notes": "All 99 Drive source photo basenames have corresponding repository image files, including HEIC converted to JPEG. No new image upload needed. Public GitHub Pages verification blocked by DNS resolution failure in both web verifier and independent HTTPS request. Do not mark complete until five live galleries, image loading, mobile navigation and lightbox are verified.",
+  "source_to_repository_name_match": {
+    "Microfono Web": "26/26",
+    "Universo Web": "30/30",
+    "Atletismo Web": "17/17",
+    "Conductor Web": "5/5",
+    "Hagamos Web": "21/21"
+  },
+  "name_match_method": "Case-insensitive Unicode-normalized source basename compared with repository filename after removing ' de tamaño grande' suffix and extension; HEIC IMG_1452 represented by existing IMG_1452 ... .jpeg"
 }
